@@ -40,7 +40,8 @@ switch score {
 #### switch문과 fallthorugh
 
 `fallthrough`는 switch문에서 사용할 수 있다.
-해당 조건 코드 블록에 적용하면, 그 이하에 있는 모든 조건에 해당하는 코드 블록을 전부 실행시킨다.
+해당 조건 코드 블록에 적용하면, 바로 아래에 있는 조건에 해당하는 코드 블록을 실행시킨다.
+그 아래에 있는 조건에도 `fallthrough`가 붙어있다면, 그 조건 아래에 있는 조건문의 코드 블록을 실행한다.
 
 ```swift
 let score = 68
@@ -59,5 +60,5 @@ switch score {
         print("Input Error")
 }
 
-// 결과는 B, C, Fail, Input Error 모두 나온다.
+// 결과는 B, C 가 나온다.
 ```
