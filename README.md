@@ -36,3 +36,7 @@
 | 접근제어자             | [이동하기](https://github.com/CHOIJUNHYUK01/swift_wiki/blob/main/Swift_Grammar/access-control.md)       |
 | 비교 프로토콜 종류     | [이동하기](https://github.com/CHOIJUNHYUK01/swift_wiki/blob/main/Swift_Grammar/equatable-comparable.md) |
 | 열거형 관련 프로토콜   | [이동하기](https://github.com/CHOIJUNHYUK01/swift_wiki/blob/main/Swift_Grammar/about-caseIterable.md)   |
+
+### 기술면접 리스트 공부
+
+[참고 링크: 이재성님 면접 질문 깃헙](https://github.com/JeaSungLEE/iOSInterviewquestions)
