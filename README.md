@@ -40,3 +40,7 @@
 ### 기술면접 리스트 공부
 
 [참고 링크: 이재성님 면접 질문 깃헙](https://github.com/JeaSungLEE/iOSInterviewquestions)
+
+| 레벨    | 링크                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------- |
+| Level 0 | [이동하기](https://github.com/CHOIJUNHYUK01/swift_wiki/blob/main/Swift_Interview/level0.md) |
